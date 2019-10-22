@@ -1,0 +1,8 @@
+<!--
+Icon made by Google from www.flaticon.com
+-->
+
+<vector android:height="36dp" android:viewportHeight="510"
+    android:viewportWidth="510" android:width="36dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#CF6670" android:pathData="M255,0C114.75,0 0,114.75 0,255s114.75,255 255,255s255,-114.75 255,-255S395.25,0 255,0zM382.5,280.5h-255v-51h255V280.5z"/>
+</vector>
